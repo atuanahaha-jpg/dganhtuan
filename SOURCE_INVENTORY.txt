@@ -1,0 +1,3 @@
+Photoshop Community source bundle
+Files included: 55
+See README.md for setup and production hardening notes.
